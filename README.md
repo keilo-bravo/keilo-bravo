@@ -2,13 +2,13 @@
   <h3 align="center">
     <img width="50%" src="https://media0.giphy.com/media/XCxjzveGa47DOd8zuq/giphy.gif" alt="Welcome">
   </h3>
-   <h2 align="center">🎊 Biemvenidos a mi GitHub 🎊</h2>
+   <h2 align="center" color="red">🎊 Biemvenidos a mi GitHub 🎊</h2>
 </div>
 <div>
 
   <p align="center">
-    <a display="none" href="https://github.com/keilo-bravo/keilo-bravo">
-      <img  src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=%F0%9F%93%91+Full+Stack+developer+-+trainee;%F0%9F%93%92+Front+end+-+Jr;%F0%9F%91%A3+Analista+programador+-+en+proceso;%F0%9F%93%9D+Autodidacta;%F0%9F%94%9D+En+constante+aprendizaje">
+    <a href="https://github.com/keilo-bravo/keilo-bravo">
+      <img  src="https://readme-typing-svg.herokuapp.com?color=00C3EB&lines=%F0%9F%93%91+Full+Stack+developer+-+trainee;%F0%9F%93%92+Front+end+-+Jr;%F0%9F%91%A3+Analista+programador+-+en+proceso;%F0%9F%93%9D+Autodidacta;%F0%9F%94%9D+En+constante+aprendizaje">
     </a>
   </p>
   
