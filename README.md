@@ -1,11 +1,7 @@
 <h3 align="center">
   <img width="50%" src="https://media0.giphy.com/media/XCxjzveGa47DOd8zuq/giphy.gif">
 </h3>
-<h3 display="flex">
-  <img width="50%" src="https://media0.giphy.com/media/XCxjzveGa47DOd8zuq/giphy.gif">
 
-  <img width="50%" src="https://media0.giphy.com/media/XCxjzveGa47DOd8zuq/giphy.gif">
-</h3>
 
 <!--
 **keilo-bravo/keilo-bravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
