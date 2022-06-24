@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img width="50%" src="https://media0.giphy.com/media/XCxjzveGa47DOd8zuq/giphy.gif">
+  <img width="50%" src="https://media0.giphy.com/media/XCxjzveGa47DOd8zuq/giphy.gif" alt="Welcome">
 </h3>
 
 
