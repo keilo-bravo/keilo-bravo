@@ -16,17 +16,18 @@
 <div>
   <h3> 💻 Lenguajes / Herramientas / Librerias </h3>
   <p>
-    <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="50"  alt="MongoDB">
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"  alt="Javascript">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" width="50"  alt="Typescript">
     <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"  alt="Python">
-    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"  alt="ReactJS">
-    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"  alt="Visual Studio Code">
-    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"  alt="NodeJS">
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"  alt="Git">
     <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60"  alt="HTML5">
     <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60"  alt="CSS3">
+    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"  alt="Git">
+    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"  alt="NodeJS">
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"  alt="Visual Studio Code">
     <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="60"  alt="Bootstrap">
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" width="50"  alt="Typescript">
+    <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="50"  alt="MongoDB">
+    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"  alt="ReactJS">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFlOWF0dDhhdml6aXVleTdtb2dkZHZzZ3MwbXU2aXE4NGZieXVmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VgGthkhUvGgOit7Y9i/giphy.gif" width="50"  alt="Vue js.">
     
     
     
