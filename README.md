@@ -15,7 +15,7 @@
 </div>
 <div>
   <h3> 💻 Lenguajes / Herramientas / Librerias </h3>
-  <p>
+  <div align="center">
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"  alt="Javascript">
     <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" width="50"  alt="Typescript">
     <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"  alt="Python">
@@ -28,16 +28,8 @@
     <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="50"  alt="MongoDB">
     <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"  alt="ReactJS">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFlOWF0dDhhdml6aXVleTdtb2dkZHZzZ3MwbXU2aXE4NGZieXVmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VgGthkhUvGgOit7Y9i/giphy.gif" width="50"  alt="Vue js.">
-    
-    
-    
-    
-  <p>
+  </div>
 </div>
-
-
-
-
 
 <!--
 **keilo-bravo/keilo-bravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
