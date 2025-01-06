@@ -16,7 +16,7 @@
 <div>
   <h3> 💻 Lenguajes / Herramientas / Librerias </h3>
   <div align="center">
-    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"  alt="Javascript">
+    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"  alt="Javascript">             
     <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" width="50"  alt="Typescript">
     <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"  alt="Python">
     <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60"  alt="HTML5">
